@@ -47,7 +47,7 @@ Set the value in the DEFAULT section of the TOML dictionary to the dictionary of
 
 ### Žg‚¢•û Usage
 
-```pythonh
+```python
 	toml = TomlFileUtil()  
 	result = toml.read_toml(file_path)
 	create_frame_from_toml_dict(parent)  

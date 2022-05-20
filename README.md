@@ -66,7 +66,7 @@ Set the value in the DEFAULT section of the TOML dictionary to the dictionary of
 
 ## プログラムの説明サイト Program description site
 
-[TOMLで設定ファイルを扱う【Python】 - プログラムでおかえしできるかな](https://juu7g.hatenablog.com/entry/Python/tomlutil)  
+[TOMLで設定ファイルを扱うユーティリティ【Python】 - プログラムでおかえしできるかな](https://juu7g.hatenablog.com/entry/Python/tomlutil)  
 
 ## 作者 Authors
 juu7g
